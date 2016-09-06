@@ -7,7 +7,7 @@ Commits in order:
 *   Initial repo set up
 *   Initial commit of index.html
 *   First <body> tag content added
-*   Featured clock code added
+*   Featured block code added
 *   Main layout code added
 *   Extras block added
 *   Footer block added
